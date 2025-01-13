@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"midicreate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"midicreate",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
